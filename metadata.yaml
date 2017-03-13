@@ -1,5 +1,8 @@
 _repo: The-Japanese-Twins_3496
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Perkins, Lucy Fitch
@@ -13,6 +16,8 @@ description: One in a series of stories that introduce a period of history and a
   location through the adventures of twins. Here Japanese twins Taro and Take learn
   their decidedly different places in Japanese society and especially why their birthdays
   are celebrated on different days.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3496#The-Japanese-Twins
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2002-10-01'
 gutenberg_type: Text
